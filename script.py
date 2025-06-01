@@ -39,8 +39,8 @@ class  Script(object):
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [ᴜʜᴅ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ](https://t.me/UHD_ForwardBot)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [ᴀɴᴋᴀɴ 👑](https://t.me/ANKAN_Contact_BOT)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [VJ Bᴏᴛᴢ](https://t.me/UHD_Bots)
+║┣⪼👑Cʀᴇᴀᴛᴏʀ : [ᴀɴᴋᴀɴ](https://t.me/ANKAN_Contact_BOT)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [ᴜʜᴅ ʙᴏᴛs™](https://t.me/UHD_Bots)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴜᴋᴏ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : ᴊᴀᴠᴀ
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ
