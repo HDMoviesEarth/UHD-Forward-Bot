@@ -33,7 +33,7 @@ class  Script(object):
 ► __if the **From Channel** is private your userbot must be member in there or your bot must need admin permission in there also__
 ► __Then use /forward to forward messages__
 
-► ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+fx7ngJZDyFlhNTM1)</b>"""
+► ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://youtu.be/wO1FE-lf35I)</b>"""
   
   ABOUT_TXT = """<b>
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
